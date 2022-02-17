@@ -14,7 +14,13 @@
   ## Installation
   Download this repo, create an .env file with your credentials and create the db with mysql.
   ## Usage
-  Create an .env file with your credentials, then create the db with mysql and run the seeds. After that you have to use insomnia to create requests to View/Update/Add the products, categories and tags.
+  Create an .env file with your credentials, then create the db with mysql and run the seeds. After that you have to use Insomnia to create requests to View/Update/Add the products, categories and tags.
+  
+  This is how the information will be displayed in Insomnia:
+  
+  <img width="1039" alt="image" src="https://user-images.githubusercontent.com/89933923/154517822-c009f952-2750-4e63-b0a5-7bc5b0e7c621.png">
+
+
   ## License
     Project Licensed under ISC
   ## Contribution
